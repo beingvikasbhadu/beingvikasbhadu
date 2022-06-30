@@ -113,7 +113,7 @@ I-am-vikasbhadu@github
 
 If you have any questions about full-stack web development, feel free to <a href="mailto:beingvikasbhadu@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.freelancer.com/u/beingvikasbhadu">Freelancer</a> or <a href="https://www.linkedin.com/in/vikas-bhadu-78452a204/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.freelancer.com/u/beingvikasbhadu">Freelancer</a> or <a href="https://www.linkedin.com/in/vikas-bhadu-78452a204/">LinkedIn</a> to deploy your project on web.
 
   </td>
   <td width="50%" valign="top">
