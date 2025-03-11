@@ -16,7 +16,7 @@ Hi, I'm Vikas Bhadu!
 ```
 I-am-vikasbhadu@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Python Developer
+💻 I am a self taught JAVA Full Stack Developer and a Python Developer
 📚 I am pursuing a Bachelors in Information Technology from X college at India
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
