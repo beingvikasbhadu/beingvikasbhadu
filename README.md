@@ -16,15 +16,12 @@ Hi, I'm Vikas Bhadu!
 ```
 I-am-vikasbhadu@github
 -------------------------
-💻 I am a self taught JAVA Full Stack Developer and a Python Developer
+💻 I am a self taught BACKEND DEVELOPER
 📚 I am pursuing a Bachelors in Information Technology from X college at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript, C++
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Python
-🎵 Love metal, lofi, jazz and soft music
+🌟 Main languages: Almost all (but C++, Java are love)
+🚩 Interested in Backend
+💖 In a complicated relationship with backend
+🎵 Love Folk music
 ```
 <hr>
 
